@@ -1,3 +1,4 @@
+// Q.5 Write a java Java Program to Handle multiple exception.
 public class fifth {
     public static void main(String[] args) {
         try{
@@ -19,3 +20,7 @@ public class fifth {
         System.out.println("rest of the code");
     }
 }
+
+// Output
+// ArrayIndexOutOfBounds Exception occurs
+// rest of the code
