@@ -1,3 +1,5 @@
+// Q.1. Write a java program to print the exception information using printStackTrace() method.
+
 public class first {
     public static void main(String[] args) {
 
