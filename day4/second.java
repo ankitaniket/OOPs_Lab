@@ -1,3 +1,5 @@
+// Q.2. Write a java program to print the exception information using toString() method.
+
 public class second {
     public static void main(String[] args) {
         try
@@ -10,3 +12,6 @@ public class second {
         }
     }
 }
+
+// Output
+// java.lang.ArithmeticException: / by zero
