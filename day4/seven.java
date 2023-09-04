@@ -1,3 +1,5 @@
+// Q.7. Write a Java program that demonstrates the use of throw
+
 class CustomException extends Exception {
     public CustomException(String message) {
         super(message);
@@ -21,4 +23,5 @@ public class seven {
     }
 }
 
-
+// Output
+// Custom Exception: You must be at least 18 years old.
