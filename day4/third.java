@@ -1,3 +1,5 @@
+// Q.3. Write a java program to print the exception information using getMessage() method.
+
 public class third {
     public static void main(String[] args) {
         try
@@ -11,3 +13,6 @@ public class third {
         }
     }
 }
+
+// Output
+// Reason of exception is / by zero
