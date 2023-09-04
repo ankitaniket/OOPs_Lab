@@ -1,3 +1,5 @@
+// Q.4. Write a java program Handling Technique for NullPointerException
+
 public class four {
     public static void main(String[] args) {
         String ptr = null;
@@ -18,3 +20,6 @@ public class four {
         }
     }
 }
+
+// Output
+// NullPointerException Caught is found
