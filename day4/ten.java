@@ -1,5 +1,5 @@
 
-// Java Program to Illustrate Handling of Checked Exception
+// Q.10. Write a Java Program to Illustrate Handling of Checked Exception
 
 import java.io.*;
 class ten {
@@ -20,3 +20,7 @@ class ten {
         }
     }
 }
+
+
+// Output
+// File does not exist
