@@ -1,3 +1,5 @@
+// Q.8. Write a java program Class that represents use-defined exception.
+
 class MyException extends Exception {
     public MyException(String s)
     {
@@ -17,3 +19,7 @@ public class eight {
         }
     }
 }
+
+// Output
+// Caught
+// NSEC
