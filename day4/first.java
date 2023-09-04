@@ -9,3 +9,8 @@ public class first {
         }
     }
 }
+
+// Output
+// java.lang.ArithmeticException: / by zero
+// 	at first.main(first.java:7)
+// Cause : null
