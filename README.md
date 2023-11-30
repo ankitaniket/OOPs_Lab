@@ -1,3 +1,3 @@
-# Jaldi jaldi code copy kar lo, taaki time bachake maze bhi kar sako! 😄📋🎉🚀
+# Jaldi jaldi code copy kar lo, 😄📋🎉🚀
 
 ## Copy cat count 😸 ![Logo](https://profile-counter.glitch.me/ankitaniket/count.svg)
